@@ -146,5 +146,5 @@ runOffset = A = 6826
 absStartCluster = 6826
 
 next: 00 00 00 00
-
+...
 """
