@@ -58,7 +58,3 @@ if __name__  == "__main__":
         for i in range(len(buf)):
             print(f"{buf[i][0]} {buf[i][1]:8d} {buf[i][2]:8d}")
             
-
-"""
-.
-"""
